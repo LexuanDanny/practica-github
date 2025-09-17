@@ -2,7 +2,7 @@ var1="Xaloc"
 var2=4
 var3=5
 var4=1.8
-
+#Definición de variables
 print("Hola mi nombre es Lexuan")
 
 suma=var2+var3
@@ -30,4 +30,5 @@ division_entera=var2//var3
 print(f"La división entera de {var2}/{var3} es igual a",division_entera)
 modulo_division=var2%var3
 print(f"El resto de la división de {var2}+{var3} es igual a",modulo_division)
+
 
